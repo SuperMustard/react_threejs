@@ -9,9 +9,9 @@ function App() {
 
   return (
     <main className="app transition-all ease-in">
-      <Canvas />
-      <Customizer  />
       <Home />
+      <Customizer  />
+      <Canvas />
     </main>
   )
 }
