@@ -13,3 +13,8 @@ This is a T-shirt create project.
 + OpenAI
 + Framer Motion
 + Valtio
+
+## functions
++ can change color
++ can upload custom image
++ can use AI to generate image
