@@ -14,6 +14,8 @@ This is a T-shirt create project.
 + Framer Motion
 + Valtio
 
+[preview](https://elegant-concha-15acc4.netlify.app)
+
 ## functions
 + can change color
 + can upload custom image
